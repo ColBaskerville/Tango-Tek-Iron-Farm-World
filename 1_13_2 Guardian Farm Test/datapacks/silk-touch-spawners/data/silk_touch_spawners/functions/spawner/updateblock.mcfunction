@@ -1,0 +1,61 @@
+execute if score @s SS_Type matches 0 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:bat"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:bat"}}]}
+execute if score @s SS_Type matches 1 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:blaze"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:blaze"}}]}
+execute if score @s SS_Type matches 2 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:cave_spider"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:cave_spider"}}]}
+execute if score @s SS_Type matches 3 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:chicken"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:chicken"}}]}
+execute if score @s SS_Type matches 4 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:cod"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:cod"}}]}
+execute if score @s SS_Type matches 5 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:cow"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:cow"}}]}
+execute if score @s SS_Type matches 6 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:creeper"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:creeper"}}]}
+execute if score @s SS_Type matches 7 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:dolphin"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:dolphin"}}]}
+execute if score @s SS_Type matches 8 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:donkey"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:donkey"}}]}
+execute if score @s SS_Type matches 9 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:drowned"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:drowned"}}]}
+execute if score @s SS_Type matches 10 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:elder_guardian"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:elder_guardian"}}]}
+
+execute if score @s SS_Type matches 11 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:enderman"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:enderman"}}]}
+execute if score @s SS_Type matches 12 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:endermite"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:endermite"}}]}
+execute if score @s SS_Type matches 13 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:evoker"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:evoker"}}]}
+execute if score @s SS_Type matches 14 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:ghast"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:ghast"}}]}
+execute if score @s SS_Type matches 15 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:guardian"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:guardian"}}]}
+execute if score @s SS_Type matches 16 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:horse"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:horse"}}]}
+execute if score @s SS_Type matches 17 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:husk"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:husk"}}]}
+execute if score @s SS_Type matches 18 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:llama"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:llama"}}]}
+execute if score @s SS_Type matches 19 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:magma_cube"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:magma_cube"}}]}
+execute if score @s SS_Type matches 20 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:mooshroom"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:mooshroom"}}]}
+
+execute if score @s SS_Type matches 21 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:mule"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:mule"}}]}
+execute if score @s SS_Type matches 22 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:ocelot"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:ocelot"}}]}
+execute if score @s SS_Type matches 23 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:parrot"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:parrot"}}]}
+execute if score @s SS_Type matches 24 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:phantom"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:phantom"}}]}
+execute if score @s SS_Type matches 25 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:pig"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:pig"}}]}
+execute if score @s SS_Type matches 26 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:polar_bear"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:polar_bear"}}]}
+execute if score @s SS_Type matches 27 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:pufferfish"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:pufferfish"}}]}
+execute if score @s SS_Type matches 28 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:rabbit"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:rabbit"}}]}
+execute if score @s SS_Type matches 29 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:salmon"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:salmon"}}]}
+execute if score @s SS_Type matches 30 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:sheep"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:sheep"}}]}
+
+execute if score @s SS_Type matches 31 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:shulker"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:shulker"}}]}
+execute if score @s SS_Type matches 32 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:silverfish"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:silverfish"}}]}
+execute if score @s SS_Type matches 33 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:skeleton"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:skeleton"}}]}
+execute if score @s SS_Type matches 34 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:skeleton_horse"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:skeleton_horse"}}]}
+execute if score @s SS_Type matches 35 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:slime"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:slime"}}]}
+execute if score @s SS_Type matches 36 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:spider"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:spider"}}]}
+execute if score @s SS_Type matches 37 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:squid"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:squid"}}]}
+execute if score @s SS_Type matches 38 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:stray"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:stray"}}]}
+execute if score @s SS_Type matches 39 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:tropical_fish"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:tropical_fish"}}]}
+execute if score @s SS_Type matches 40 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:turtle"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:turtle"}}]}
+
+execute if score @s SS_Type matches 41 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:vex"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:vex"}}]}
+execute if score @s SS_Type matches 42 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:villager"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:villager"}}]}
+execute if score @s SS_Type matches 43 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:vindicator"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:vindicator"}}]}
+execute if score @s SS_Type matches 44 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:witch"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:witch"}}]}
+execute if score @s SS_Type matches 45 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:wither_skeleton"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:wither_skeleton"}}]}
+execute if score @s SS_Type matches 46 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:wolf"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:wolf"}}]}
+execute if score @s SS_Type matches 47 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:zombie"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:zombie"}}]}
+execute if score @s SS_Type matches 48 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:zombie_horse"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:zombie_horse"}}]}
+execute if score @s SS_Type matches 49 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:zombie_pigman"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:zombie_pigman"}}]}
+execute if score @s SS_Type matches 50 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:zombie_villager"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:zombie_villager"}}]}
+
+execute if score @s SS_Type matches 51 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:snow_golem"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:snow_golem"}}]}
+execute if score @s SS_Type matches 52 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:wither"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:wither"}}]}
+execute if score @s SS_Type matches 53 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:ender_dragon"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:ender_dragon"}}]}
+execute if score @s SS_Type matches 54 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:illusioner"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:illusioner"}}]}
+execute if score @s SS_Type matches 55 run data merge block ~ ~ ~ {SpawnData:{id:"minecraft:iron_golem"},SpawnPotentials:[{Weight:1,Entity:{id:"minecraft:iron_golem"}}]}

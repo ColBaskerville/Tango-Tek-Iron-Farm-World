@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Makes spawners mineable with silk touch pickaxes.",
+        "pack_format": 1
+    }
+}
